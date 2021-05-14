@@ -1,4 +1,3 @@
-//code pour tester capteur
 #define capteur1 A0
 #define capteur2 A5
 
